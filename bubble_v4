@@ -1,0 +1,16 @@
+
+while array[x+1]
+
+	if p > c
+
+		#switch some shit
+
+		# set z back to 0
+
+	else
+
+		# increment counter & go to next element in array
+
+	end
+
+end
